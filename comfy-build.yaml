@@ -1,0 +1,16 @@
+schema: comfy-build/1
+id: null
+name: comfyui-base
+description: ''
+syncedRevision: null
+definition:
+  schema: distribution-definition/0
+  baseComfyVersion: v0.20.1
+  models: []
+  customNodes: []
+  pipDependencies: ''
+  environment:
+    arch: x86_64
+    os: Linux
+    pythonVersion: 3.13.17
+    torch: null
